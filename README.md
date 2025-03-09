@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">My name is igncaious and am from the UK..<br><br>- 🔭 I am currwntly looking to gain experience as a fresh employeee<br>- 📚 I'm currently learning javascript and extension development<br>- ⚡ I ran an online business on the side </p>
+<p align="left">My name is igncaious and am from the UK..<br><br>- 🔭 I am currently looking to gain experience as a fresh employee<br>- 📚 I'm currently learning javascript and extension development<br>- ⚡ I ran an online business on the side </p>
 
 ###
 
